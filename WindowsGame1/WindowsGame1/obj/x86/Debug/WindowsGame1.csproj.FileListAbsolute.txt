@@ -1,0 +1,72 @@
+D:\Work\Documents\Projects\GitHub\HeartStopper\HeartStopper\WindowsGame1\WindowsGame1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Work\Documents\Projects\GitHub\HeartStopper\HeartStopper\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Work\Documents\Projects\GitHub\HeartStopper\HeartStopper\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+D:\Work\Documents\Projects\GitHub\HeartStopper\HeartStopper\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+D:\Work\Documents\Projects\GitHub\HeartStopper\HeartStopper\WindowsGame1\WindowsGame1\bin\x86\Debug\XUI.dll
+D:\Work\Documents\Projects\GitHub\HeartStopper\HeartStopper\WindowsGame1\WindowsGame1\bin\x86\Debug\XUI.pdb
+D:\Work\Documents\Projects\GitHub\HeartStopper\HeartStopper\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+D:\Work\Documents\Projects\GitHub\HeartStopper\HeartStopper\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+C:\Users\Angelico\Documents\GitHub\HeartStopper\HeartStopper\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+C:\Users\Angelico\Documents\GitHub\HeartStopper\HeartStopper\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+C:\Users\Angelico\Documents\GitHub\HeartStopper\HeartStopper\WindowsGame1\WindowsGame1\bin\x86\Debug\XUI.pdb
+C:\Users\Angelico\Documents\GitHub\HeartStopper\HeartStopper\WindowsGame1\WindowsGame1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Angelico\Documents\GitHub\HeartStopper\HeartStopper\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Angelico\Documents\GitHub\HeartStopper\HeartStopper\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+C:\Users\Angelico\Documents\GitHub\HeartStopper\HeartStopper\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+C:\Users\Angelico\Documents\GitHub\HeartStopper\HeartStopper\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Images\werewolf.xnb
+D:\Work\Documents\Projects\GitHub\HeartStopper\HeartStopper\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Images\werewolf.xnb
+D:\Work\Documents\Projects\GitHub\HeartStopper\HeartStopper\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Images\WolfSprite.xnb
+D:\Work\Documents\Projects\GitHub\HeartStopper\HeartStopper\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Audio\Action.xnb
+D:\Work\Documents\Projects\GitHub\HeartStopper\HeartStopper\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Audio\sheepTest.xnb
+D:\Work\Documents\Projects\GitHub\HeartStopper\HeartStopper\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Audio\The Forest and the Trees.xnb
+D:\Work\Documents\Projects\GitHub\HeartStopper\HeartStopper\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Audio\Action.wma
+D:\Work\Documents\Projects\GitHub\HeartStopper\HeartStopper\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Audio\sheepTest.wma
+D:\Work\Documents\Projects\GitHub\HeartStopper\HeartStopper\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Audio\The Forest and the Trees.wma
+D:\Work\Documents\Projects\GitHub\HeartStopper\HeartStopper\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Images\Sheepl.xnb
+D:\Work\Documents\Projects\GitHub\HeartStopper\HeartStopper\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe.manifest
+D:\Work\Documents\Projects\GitHub\HeartStopper\HeartStopper\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.application
+D:\Work\Documents\Projects\GitHub\HeartStopper\HeartStopper\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe.manifest
+D:\Work\Documents\Projects\GitHub\HeartStopper\HeartStopper\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.application
+D:\Work\Documents\Projects\GitHub\HeartStopper\HeartStopper\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Images\Ball.xnb
+C:\Users\A\Documents\GitHub\HeartStopper\HeartStopper\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Images\werewolf.xnb
+C:\Users\A\Documents\GitHub\HeartStopper\HeartStopper\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Images\WolfSprite.xnb
+C:\Users\A\Documents\GitHub\HeartStopper\HeartStopper\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Images\Sheepl.xnb
+C:\Users\A\Documents\GitHub\HeartStopper\HeartStopper\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Images\Ball.xnb
+C:\Users\A\Documents\GitHub\HeartStopper\HeartStopper\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Audio\Action.xnb
+C:\Users\A\Documents\GitHub\HeartStopper\HeartStopper\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Audio\sheepTest.xnb
+C:\Users\A\Documents\GitHub\HeartStopper\HeartStopper\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Audio\The Forest and the Trees.xnb
+C:\Users\A\Documents\GitHub\HeartStopper\HeartStopper\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Audio\Action.wma
+C:\Users\A\Documents\GitHub\HeartStopper\HeartStopper\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Audio\sheepTest.wma
+C:\Users\A\Documents\GitHub\HeartStopper\HeartStopper\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Audio\The Forest and the Trees.wma
+C:\Users\A\Documents\GitHub\HeartStopper\HeartStopper\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe.manifest
+C:\Users\A\Documents\GitHub\HeartStopper\HeartStopper\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.application
+C:\Users\A\Documents\GitHub\HeartStopper\HeartStopper\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+C:\Users\A\Documents\GitHub\HeartStopper\HeartStopper\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+C:\Users\A\Documents\GitHub\HeartStopper\HeartStopper\WindowsGame1\WindowsGame1\bin\x86\Debug\XUI.pdb
+C:\Users\A\Documents\GitHub\HeartStopper\HeartStopper\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.csprojResolveAssemblyReference.cache
+C:\Users\A\Documents\GitHub\HeartStopper\HeartStopper\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\A\Documents\GitHub\HeartStopper\HeartStopper\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe.manifest
+C:\Users\A\Documents\GitHub\HeartStopper\HeartStopper\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.application
+C:\Users\A\Documents\GitHub\HeartStopper\HeartStopper\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+C:\Users\A\Documents\GitHub\HeartStopper\HeartStopper\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+C:\Users\A\Desktop\Projects\C#\Wulf\Wulf\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Images\werewolf.xnb
+C:\Users\A\Desktop\Projects\C#\Wulf\Wulf\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Images\WolfSprite.xnb
+C:\Users\A\Desktop\Projects\C#\Wulf\Wulf\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Images\Sheepl.xnb
+C:\Users\A\Desktop\Projects\C#\Wulf\Wulf\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Images\Ball.xnb
+C:\Users\A\Desktop\Projects\C#\Wulf\Wulf\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Audio\Action.xnb
+C:\Users\A\Desktop\Projects\C#\Wulf\Wulf\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Audio\sheepTest.xnb
+C:\Users\A\Desktop\Projects\C#\Wulf\Wulf\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Audio\The Forest and the Trees.xnb
+C:\Users\A\Desktop\Projects\C#\Wulf\Wulf\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Audio\Action.wma
+C:\Users\A\Desktop\Projects\C#\Wulf\Wulf\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Audio\sheepTest.wma
+C:\Users\A\Desktop\Projects\C#\Wulf\Wulf\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Audio\The Forest and the Trees.wma
+C:\Users\A\Desktop\Projects\C#\Wulf\Wulf\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe.manifest
+C:\Users\A\Desktop\Projects\C#\Wulf\Wulf\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.application
+C:\Users\A\Desktop\Projects\C#\Wulf\Wulf\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+C:\Users\A\Desktop\Projects\C#\Wulf\Wulf\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+C:\Users\A\Desktop\Projects\C#\Wulf\Wulf\WindowsGame1\WindowsGame1\bin\x86\Debug\XUI.pdb
+C:\Users\A\Desktop\Projects\C#\Wulf\Wulf\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.csprojResolveAssemblyReference.cache
+C:\Users\A\Desktop\Projects\C#\Wulf\Wulf\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\A\Desktop\Projects\C#\Wulf\Wulf\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe.manifest
+C:\Users\A\Desktop\Projects\C#\Wulf\Wulf\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.application
+C:\Users\A\Desktop\Projects\C#\Wulf\Wulf\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+C:\Users\A\Desktop\Projects\C#\Wulf\Wulf\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
